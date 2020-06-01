@@ -23,7 +23,6 @@ class MyApp extends StatelessWidget {
           button: TextStyle(fontWeight: FontWeight.bold),
           title: TextStyle(fontWeight: FontWeight.bold),
         ),
-        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: HomeScreen(),
     );
